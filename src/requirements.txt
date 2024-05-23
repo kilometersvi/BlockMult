@@ -1,0 +1,3 @@
+numpy
+pandas
+multiprocess=0.70.16
